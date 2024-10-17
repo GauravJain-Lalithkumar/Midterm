@@ -11,9 +11,9 @@ You can use in any Web browser
 
 ## Contributing
 
-1. Gaurav Jain Lalith Kumar-_Debated for the 'Against' Argument._
-2. Daljit Singh-_Acted as a mideator for the debate._
-3. Pranav Pranav-_Debated for the 'For' argument._
+1. __Gaurav Jain Lalith Kumar__-__Debated for the 'Against' Argument._
+2. __Daljit Singh__-_Acted as a mideator for the debate._
+3. __Pranav Pranav__-_Debated for the 'For' argument._
 
 ## License
 
